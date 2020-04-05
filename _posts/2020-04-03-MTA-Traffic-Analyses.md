@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTA Traffic Analyses\: Finding outliers
+title: MTA Traffic Analyses- Finding outliers
 ---
 
 Today we'll look at analyzing NYC's MTA subway transit data - specifically, removing outliers and doing general cleanup. 
