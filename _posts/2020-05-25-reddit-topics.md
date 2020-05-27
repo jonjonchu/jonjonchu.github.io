@@ -130,7 +130,7 @@ will serve the ```home.html``` file in the ```templates``` folder.
 
 But what are the other parameters? What's up with ```subreddit=query['subreddit']```? Well, the right side of the equation is the query from the ```request``` call we talked about in the last section. But the left side of the equation is a variable that can be placed in the html file, surrounded by two sets of curly braces.
 
-```html
+```
 {{subreddit}}
 ```
 
