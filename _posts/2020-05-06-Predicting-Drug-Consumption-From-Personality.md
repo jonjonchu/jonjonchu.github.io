@@ -95,7 +95,7 @@ This process was repeated once more for the last few drugs, where all the person
 
 ## Results
 
-### [Try the app](dry-stream-60533.herokuapp.com)
+### [Try the app](https://www.dry-stream-60533.herokuapp.com)
 
 Was it worth it? Yes. Is the approach flawed? I think so. Given the time and resources, I would definitely change a few things:
 
